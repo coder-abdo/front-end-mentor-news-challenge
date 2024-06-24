@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution URL](https://your-solution-url.com)
-- Live Site URL: [Github pages live site URL](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution URL](https://www.frontendmentor.io/solutions/news-home-page-G92qLe5OZp)
+- Live Site URL: [Github pages live site URL](https://coder-abdo.github.io/front-end-mentor-news-challenge/)
 
 ## My process
 
